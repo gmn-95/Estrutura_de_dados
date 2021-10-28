@@ -1,0 +1,14 @@
+Lista simples{
+	
+	Lista armazenada em sequência na memória do computador
+	Ex: Vetor
+
+}
+
+
+Lista Encadeada{
+
+	Lita armazenada em diferentes partes da memória, cada membro possui um ponteiro
+	que aponta para o próximo membro da lista
+	
+}
